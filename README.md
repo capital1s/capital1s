@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @capital1s
-- 👀 I’m interested in IBKR TWS API
+- 👀 I’m interested in IBKR TWS API using a Mac Intel and PyCharm.
 - 🌱 I’m currently learning with difficulty.
 - 💞️ I’m looking to collaborate on elementary instruction.
 - 📫 How to reach me pennellmd@live.com
